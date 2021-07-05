@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jadeobriensmith
+- 👋 Hi, I’m Jade O'Brien-Smith
 - 👀 I’m interested in sports analytics and general data science
 - 🌱 I’m currently learning how to create shiny dashboards
-- 📫 How to reach me twitter: @jadeobriensmith 
-                      email: jade_obriensmith@hotmail.com
+- 📫 How to reach me twitter: @jadeobriensmith
+-                     email: jade_obriensmith@hotmail.com
+
 
 <!---
 jadeobriensmith/jadeobriensmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
